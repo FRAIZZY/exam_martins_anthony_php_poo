@@ -1,0 +1,9 @@
+<?php
+    require('controllers/UserController.php');
+    require('controllers/TeamController.php');
+    require('models/User.php');
+    require('models/Team.php');
+    require('models/managers/DbManager.php');
+    require('models/managers/UserManager.php');
+    require('models/managers/TeamManager.php');
+?>
